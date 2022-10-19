@@ -1,4 +1,5 @@
 # build the project
+# initial commit
 tasks:
   - name: Setup maven
     init: mvn install
